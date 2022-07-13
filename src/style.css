@@ -1,1 +1,13 @@
 /* styles go here */
+.mb-20 {
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+.mb-10:last-child {
+  margin-bottom: 0;
+}
